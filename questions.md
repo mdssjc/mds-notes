@@ -10,3 +10,11 @@ O que utilizar para criar questões:
 * **Where (Onde?) - places (lugares)**: local, departamento
 * **How (Como?)**: atividades, método, processo
 * **How Much (Quanto Custa?)**: custo, gastos, quantidade
+
+Como validar as questões:
+
+* **given (dado)**: cenário
+* **when (quando)**: ação
+* **then (então)**: resultado
+* **and (e)**: conectivo
+* **but (mas)**: conectivo
