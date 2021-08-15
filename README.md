@@ -9,7 +9,8 @@
 ## Conteúdo
 
 * [Questões](questions.md "Questões")
+* [O que assistir?](videos.md "O que assistir?")
 
 ## Data da Atualização
 
-07/08/2021
+14/08/2021
