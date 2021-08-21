@@ -10,7 +10,8 @@
 
 * [Questões](questions.md "Questões")
 * [O que assistir?](videos.md "O que assistir?")
+* [Como automatizar o computador](automatization.md "Como automatizar o computador")
 
 ## Data da Atualização
 
-14/08/2021
+21/08/2021
