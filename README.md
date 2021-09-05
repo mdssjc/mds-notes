@@ -11,7 +11,8 @@
 * [Questões](questions.md "Questões")
 * [O que assistir?](videos.md "O que assistir?")
 * [Como automatizar o computador](automatization.md "Como automatizar o computador")
+* [Favoritos](bookmark.md "Favoritos")
 
 ## Data da Atualização
 
-28/08/2021
+04/09/2021
