@@ -10,3 +10,7 @@
 ## Projetos Open Source
 
 * [Public APIs](https://github.com/public-apis/public-apis/ "Public APIs")
+
+## Livros Interativos
+
+* [OKAI - An Interactive Introduction to Artificial Intelligence (AI)](https://okai.brown.edu/ "OKAI - An Interactive Introduction to Artificial Intelligence (AI)")
