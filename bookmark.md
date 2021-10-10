@@ -14,3 +14,5 @@
 ## Livros Interativos
 
 * [OKAI - An Interactive Introduction to Artificial Intelligence (AI)](https://okai.brown.edu/ "OKAI - An Interactive Introduction to Artificial Intelligence (AI)")
+* [Seeing Teory - A visual introduction to probability and statistics](https://seeing-theory.brown.edu/ "Seeing Teory - A visual introduction to probability and statistics")
+* [The Nature of Code](https://natureofcode.com/ "The Nature of Code")
