@@ -10,6 +10,8 @@
 ## Projetos Open Source
 
 * [Public APIs](https://github.com/public-apis/public-apis/ "Public APIs")
+* [The System Design Primer](https://github.com/donnemartin/system-design-primer/ "The System Design Primer")
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/ "The Art of Command Line")
 
 ## Livros Interativos
 
