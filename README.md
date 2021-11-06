@@ -13,7 +13,8 @@
 * [Como automatizar o computador](automatization.md "Como automatizar o computador")
 * [Favoritos](bookmark.md "Favoritos")
 * [Computação](computation.md "Computação")
+* [Resiliência](resilience.md "Resiliência")
 
 ## Data da Atualização
 
-30/10/2021
+06/11/2021
