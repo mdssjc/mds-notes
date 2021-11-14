@@ -14,7 +14,8 @@
 * [Favoritos](bookmark.md "Favoritos")
 * [Computação](computation.md "Computação")
 * [Resiliência](resilience.md "Resiliência")
+* [Ferramentas](tools.md "Ferramentas")
 
 ## Data da Atualização
 
-06/11/2021
+13/11/2021
