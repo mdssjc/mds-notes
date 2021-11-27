@@ -14,3 +14,12 @@
 * [Rust](https://www.rust-lang.org/ "Rust")
 * [Rust Blog](https://blog.rust-lang.org/ "Rust Blog")
 * [This Week in Rust](https://this-week-in-rust.org/ "This Week in Rust")
+
+
+## Arquitetura
+
+* [Design Patterns & Refactoring](https://sourcemaking.com/ "Design Patterns & Refactoring")
+* [Douglas C. Schmidt](https://www.dre.vanderbilt.edu/~schmidt/ "Douglas C. Schmidt")
+* [Garfixia Software Architectures](https://www.dossier-andreas.net/software_architecture/ "Garfixia Software Architectures")
+* [Huston Design Patterns](http://www.vincehuston.org/dp/ "Huston Design Patterns")
+* [Refactoring and Design Patterns](https://refactoring.guru/ "Refactoring and Design Patterns")
