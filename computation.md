@@ -18,8 +18,13 @@
 
 ## Arquitetura
 
+* [Cunningham & Cunningham](http://c2.com/ "Cunningham & Cunningham")
 * [Design Patterns & Refactoring](https://sourcemaking.com/ "Design Patterns & Refactoring")
 * [Douglas C. Schmidt](https://www.dre.vanderbilt.edu/~schmidt/ "Douglas C. Schmidt")
 * [Garfixia Software Architectures](https://www.dossier-andreas.net/software_architecture/ "Garfixia Software Architectures")
 * [Huston Design Patterns](http://www.vincehuston.org/dp/ "Huston Design Patterns")
+* [Martin Fowler](https://martinfowler.com/ "Martin Fowler")
+* [Michael Feathers](https://michaelfeathers.silvrback.com/ "Michael Feathers")
+* [Peter Norvig](https://norvig.com/ "Peter Norvig")
 * [Refactoring and Design Patterns](https://refactoring.guru/ "Refactoring and Design Patterns")
+* [Uncle Bob Martin](http://cleancoder.com/ "Uncle Bob Martin")
