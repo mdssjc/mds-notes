@@ -8,13 +8,13 @@
 * [DartPad](https://www.dartpad.dev/ "DartPad")
 * [Bloc State Management Library](https://bloclibrary.dev/ "Bloc State Management Library")
 * [Riverpod](https://riverpod.dev/ "Riverpod")
+* [Flame Engine](https://flame-engine.org/ "Flame Engine")
 
 ## Rust
 
 * [Rust](https://www.rust-lang.org/ "Rust")
 * [Rust Blog](https://blog.rust-lang.org/ "Rust Blog")
 * [This Week in Rust](https://this-week-in-rust.org/ "This Week in Rust")
-
 
 ## Arquitetura
 
