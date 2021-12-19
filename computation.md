@@ -9,6 +9,8 @@
 * [Bloc State Management Library](https://bloclibrary.dev/ "Bloc State Management Library")
 * [Riverpod](https://riverpod.dev/ "Riverpod")
 * [Flame Engine](https://flame-engine.org/ "Flame Engine")
+* [Code With Andrea](https://codewithandrea.com/ "Code With Andrea")
+* [Very Good Ventures](https://verygood.ventures/ "Very Good Ventures")
 
 ## Rust
 
