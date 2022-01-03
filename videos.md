@@ -10,3 +10,9 @@
 * [Erika Belmonte](https://www.youtube.com/c/ErikaBelmonte "Erika Belmonte")
 * [Nova Acrópole Brasil](https://www.youtube.com/user/NovaAcropole "Nova Acrópole Brasil")
 * [UNIVESP](https://www.youtube.com/user/univesptv "UNIVESP")
+
+### Flutter
+
+* [Flutter](https://www.youtube.com/c/flutterdev "Flutter")
+* [Flutter Community](https://www.youtube.com/c/FlutterCommunityVideos "Flutter Community")
+* [Flame Engine](https://www.youtube.com/channel/UCinjCGNThGXbUYFgfgsI0bA "Flame Engine")
