@@ -17,6 +17,7 @@
 * [Rust](https://www.rust-lang.org/ "Rust")
 * [Rust Blog](https://blog.rust-lang.org/ "Rust Blog")
 * [This Week in Rust](https://this-week-in-rust.org/ "This Week in Rust")
+* [Tauri](https://tauri.studio/en/ "Tauri")
 
 ## Arquitetura
 
