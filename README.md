@@ -8,14 +8,15 @@
 
 ## Conteúdo
 
-* [Questões](questions.md "Questões")
-* [O que assistir?](videos.md "O que assistir?")
 * [Como automatizar o computador](automatization.md "Como automatizar o computador")
-* [Favoritos](bookmark.md "Favoritos")
 * [Computação](computation.md "Computação")
-* [Resiliência](resilience.md "Resiliência")
+* [Favoritos](bookmark.md "Favoritos")
 * [Ferramentas](tools.md "Ferramentas")
+* [Neurociência](neuro.md "Neurociência")
+* [O que assistir?](videos.md "O que assistir?")
+* [Questões](questions.md "Questões")
+* [Resiliência](resilience.md "Resiliência")
 
 ## Data da Atualização
 
-16/01/2022
+23/01/2022
