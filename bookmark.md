@@ -5,6 +5,7 @@
 ## Teste de Personalidade
 
 * [16Personalities](https://www.16personalities.com/ "16Personalities")
+* [Big Five Personality Test](https://bigfive-test.com/ "Big Five Personality Test")
 * [Sakinorva](https://sakinorva.net/ "Sakinorva")
 
 ## Projetos Open Source

@@ -17,7 +17,20 @@
 * [Rust](https://www.rust-lang.org/ "Rust")
 * [Rust Blog](https://blog.rust-lang.org/ "Rust Blog")
 * [This Week in Rust](https://this-week-in-rust.org/ "This Week in Rust")
+
+## TypeScript/JavaScript
+
+* [TypeScript](https://www.typescriptlang.org/ "TypeScript")
+* [Deno](https://deno.land/ "Deno")
+* [Svelte](https://svelte.dev/ "Svelte")
 * [Tauri](https://tauri.studio/en/ "Tauri")
+* [P5JS](https://p5js.org/ "P5JS")
+* [Angular](https://angular.io/ "Angular")
+* [Angular Material UI](https://material.angular.io/ "Angular Material UI")
+* [NGRX](https://ngrx.io/ "NGRX")
+* [Ionic](https://ionicframework.com/ "Ionic")
+* [NativeScript](https://nativescript.org/ "NativeScript")
+* [NodeJS](https://nodejs.org/ "NodeJS")
 
 ## Arquitetura
 
