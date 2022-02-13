@@ -8,7 +8,10 @@
 * [Bartosz Milewski](https://www.youtube.com/user/DrBartosz "Bartosz Milewski")
 * [English Speeches](https://www.youtube.com/c/EnglishSpeeches "English Speeches")
 * [Erika Belmonte](https://www.youtube.com/c/ErikaBelmonte "Erika Belmonte")
+* [Mundo Sem Fim](https://www.youtube.com/c/MundoSemFim "Mundo Sem Fim")
+* [NeuroVox](https://www.youtube.com/c/NeuroVox "NeuroVox")
 * [Nova Acrópole Brasil](https://www.youtube.com/user/NovaAcropole "Nova Acrópole Brasil")
+* [Thais Godinho - Vida Organizada](https://www.youtube.com/c/VidaOrganizadaTV "Thais Godinho - Vida Organizada")
 * [UNIVESP](https://www.youtube.com/user/univesptv "UNIVESP")
 
 ### Flutter
@@ -16,3 +19,4 @@
 * [Flutter](https://www.youtube.com/c/flutterdev "Flutter")
 * [Flutter Community](https://www.youtube.com/c/FlutterCommunityVideos "Flutter Community")
 * [Flame Engine](https://www.youtube.com/channel/UCinjCGNThGXbUYFgfgsI0bA "Flame Engine")
+* [Reso Coder](https://www.youtube.com/c/ResoCoder "Reso Coder")
