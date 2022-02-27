@@ -13,10 +13,3 @@
 * [Nova Acrópole Brasil](https://www.youtube.com/user/NovaAcropole "Nova Acrópole Brasil")
 * [Thais Godinho - Vida Organizada](https://www.youtube.com/c/VidaOrganizadaTV "Thais Godinho - Vida Organizada")
 * [UNIVESP](https://www.youtube.com/user/univesptv "UNIVESP")
-
-### Flutter
-
-* [Flutter](https://www.youtube.com/c/flutterdev "Flutter")
-* [Flutter Community](https://www.youtube.com/c/FlutterCommunityVideos "Flutter Community")
-* [Flame Engine](https://www.youtube.com/channel/UCinjCGNThGXbUYFgfgsI0bA "Flame Engine")
-* [Reso Coder](https://www.youtube.com/c/ResoCoder "Reso Coder")
