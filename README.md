@@ -9,7 +9,7 @@
 ## Conteúdo
 
 * [Como automatizar o computador](automatization.md "Como automatizar o computador")
-* [Computação](computation.md "Computação")
+* [Software](software.md "Software")
 * [Favoritos](bookmark.md "Favoritos")
 * [Ferramentas](tools.md "Ferramentas")
 * [Neurociência](neuro.md "Neurociência")
@@ -19,4 +19,4 @@
 
 ## Data da Atualização
 
-06/03/2022
+13/03/2022
