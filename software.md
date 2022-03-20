@@ -14,6 +14,16 @@ Modernas:
 * [Rust](software/rust.md "Rust")
 * [Typescript](software/typescript.md "Typescript")
 
+Low Code:
+
+* [App Inventor](http://appinventor.mit.edu/ "App Inventor")
+* [Enso](https://enso.org/ "Enso")
+* [GDevelop](https://gdevelop.io/ "GDevelop")
+* [Godot](https://godotengine.org/ "Godot")
+* [Jupyter](https://jupyter.org/ "Jupyter")
+* [Node-RED](https://nodered.org/ "Node-RED")
+* [Orange](https://orangedatamining.com/ "Orange")
+
 ## Arquitetura
 
 * [Design Patterns & Refactoring](https://sourcemaking.com/ "Design Patterns & Refactoring")
