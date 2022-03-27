@@ -17,3 +17,7 @@
 * [Flutterly](https://www.youtube.com/c/Flutterly "Flutterly")
 * [Reso Coder](https://www.youtube.com/c/ResoCoder "Reso Coder")
 * [Very Good Ventures](https://verygood.ventures/ "Very Good Ventures")
+
+## Open Source
+
+* [Flutter Design Patterns](https://flutterdesignpatterns.com/ "Flutter Design Patterns")
