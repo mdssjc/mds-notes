@@ -14,9 +14,8 @@
 * [Ferramentas](tools.md "Ferramentas")
 * [Neurociência](neuro.md "Neurociência")
 * [O que assistir?](videos.md "O que assistir?")
-* [Questões](questions.md "Questões")
 * [Resiliência](resilience.md "Resiliência")
 
 ## Data da Atualização
 
-27/03/2022
+03/04/2022
