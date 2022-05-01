@@ -12,6 +12,7 @@
 - [Compras](shopping.md 'Compras')
 - [Favoritos](bookmark.md 'Favoritos')
 - [Ferramentas](tools.md 'Ferramentas')
+- [Games](games.md 'Games')
 - [Neurociência](neuro.md 'Neurociência')
 - [O que assistir?](videos.md 'O que assistir?')
 - [Resiliência](resilience.md 'Resiliência')
@@ -19,4 +20,4 @@
 
 ## Data da Atualização
 
-24/04/2022
+01/05/2022
