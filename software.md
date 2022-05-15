@@ -3,6 +3,7 @@
 Mainstream:
 
 - [Java](software/java.md 'Java')
+- [Scala](software/scala.md 'Scala')
 
 Acadêmicas:
 
