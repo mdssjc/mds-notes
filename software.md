@@ -37,6 +37,7 @@ IDE:
 - [Garfixia Software Architectures](https://www.dossier-andreas.net/software_architecture/ 'Garfixia Software Architectures')
 - [Huston Design Patterns](http://www.vincehuston.org/dp/ 'Huston Design Patterns')
 - [Patterns.dev](https://www.patterns.dev/ 'Patterns.dev')
+- [Ploeh blog](https://blog.ploeh.dk/ 'Ploeh blog')
 - [Refactoring and Design Patterns](https://refactoring.guru/ 'Refactoring and Design Patterns')
 - [Reflectoring - Where the HOW meets the WHY](https://reflectoring.io/ 'Reflectoring - Where the HOW meets the WHY')
 - [Software Developer To Software Architect](https://developertoarchitect.com/ 'Software Developer To Software Architect')
@@ -44,6 +45,7 @@ IDE:
 ## Autores
 
 - [Addy Osmani](https://addyosmani.com/ 'Addy Osmani')
+- [Aleksey Shipilëv](https://shipilev.net/ 'Aleksey Shipilëv')
 - [Bartosz Milewski](https://bartoszmilewski.com/ 'Bartosz Milewski')
 - [Bertrand Meyer](https://bertrandmeyer.com/ 'Bertrand Meyer')
 - [Cunningham & Cunningham](http://c2.com/ 'Cunningham & Cunningham')
