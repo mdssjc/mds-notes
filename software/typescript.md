@@ -7,6 +7,10 @@
 - [Deno](https://deno.land/ 'Deno')
 - [NodeJS](https://nodejs.org/ 'NodeJS')
 
+## Tools
+
+- [Vite](https://vitejs.dev/ 'Vite')
+
 ## Frameworks
 
 - [P5JS](https://p5js.org/ 'P5JS')
