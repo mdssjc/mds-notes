@@ -7,3 +7,4 @@
 ## Community
 
 - [Vlad Mihalcea](https://vladmihalcea.com/ 'Vlad Mihalcea')
+- [Baeldung](https://www.baeldung.com/ 'Baeldung')
