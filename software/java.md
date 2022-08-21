@@ -21,5 +21,6 @@
 
 ## Community
 
+- [Java Magazine](https://blogs.oracle.com/javamagazine/ 'Java Magazine')
 - [Vlad Mihalcea](https://vladmihalcea.com/ 'Vlad Mihalcea'): especialista em _Hibernate_
 - [Baeldung](https://www.baeldung.com/ 'Baeldung'): especialista em _Spring_
