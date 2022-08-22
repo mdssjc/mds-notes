@@ -48,6 +48,7 @@ IDE:
 - [Aleksey Shipilëv](https://shipilev.net/ 'Aleksey Shipilëv')
 - [Bartosz Milewski](https://bartoszmilewski.com/ 'Bartosz Milewski')
 - [Bertrand Meyer](https://bertrandmeyer.com/ 'Bertrand Meyer')
+- [Cay Horstmann](https://horstmann.com/ 'Cay Horstmann')
 - [Cunningham & Cunningham](http://c2.com/ 'Cunningham & Cunningham')
 - [Dan Grossman](https://homes.cs.washington.edu/~djg/ 'Dan Grossman')
 - [Daniel Shiffman](https://shiffman.net/ 'Daniel Shiffman')
