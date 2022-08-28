@@ -8,6 +8,7 @@ Mainstream:
 Acadêmicas:
 
 - [Lisp](software/lisp.md 'Lisp')
+- [OCaml](https://ocaml.org/ 'OCaml')
 
 Modernas:
 
