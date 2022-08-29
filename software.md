@@ -7,8 +7,8 @@ Mainstream:
 
 Acadêmicas:
 
-- [Lisp](software/lisp.md 'Lisp')
 - [OCaml](https://ocaml.org/ 'OCaml')
+- [Racket](https://racket-lang.org/ 'Racket')
 
 Modernas:
 
@@ -18,6 +18,7 @@ Modernas:
 
 Low Code:
 
+- [Amplication](https://amplication.com/ 'Amplication')
 - [App Inventor](http://appinventor.mit.edu/ 'App Inventor')
 - [Appsmith](https://github.com/appsmithorg/appsmith 'Appsmith')
 - [Enso](https://enso.org/ 'Enso')
@@ -54,6 +55,7 @@ IDE:
 - [Dan Grossman](https://homes.cs.washington.edu/~djg/ 'Dan Grossman')
 - [Daniel Shiffman](https://shiffman.net/ 'Daniel Shiffman')
 - [Douglas C. Schmidt](https://www.dre.vanderbilt.edu/~schmidt/ 'Douglas C. Schmidt')
+- [Eric Normand](https://ericnormand.me/ 'Eric Normand')
 - [Khalil Stemmler](https://khalilstemmler.com/ 'Khalil Stemmler')
 - [Martin Fowler](https://martinfowler.com/ 'Martin Fowler')
 - [Michael Feathers](https://michaelfeathers.silvrback.com/ 'Michael Feathers')
