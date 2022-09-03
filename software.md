@@ -7,7 +7,7 @@ Mainstream:
 
 Acadêmicas:
 
-- [OCaml](https://ocaml.org/ 'OCaml')
+- [OCaml](software/ocaml.md 'OCaml')
 - [Racket](https://racket-lang.org/ 'Racket')
 
 Modernas:
