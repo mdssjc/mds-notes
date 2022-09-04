@@ -8,7 +8,7 @@ Mainstream:
 Acadêmicas:
 
 - [OCaml](software/ocaml.md 'OCaml')
-- [Racket](https://racket-lang.org/ 'Racket')
+- [Lisp](software/lisp.md 'Lisp')
 
 Modernas:
 
