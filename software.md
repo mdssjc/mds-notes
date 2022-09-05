@@ -55,7 +55,6 @@ IDE:
 - [Dan Grossman](https://homes.cs.washington.edu/~djg/ 'Dan Grossman')
 - [Daniel Shiffman](https://shiffman.net/ 'Daniel Shiffman')
 - [Douglas C. Schmidt](https://www.dre.vanderbilt.edu/~schmidt/ 'Douglas C. Schmidt')
-- [Eric Normand](https://ericnormand.me/ 'Eric Normand')
 - [Khalil Stemmler](https://khalilstemmler.com/ 'Khalil Stemmler')
 - [Martin Fowler](https://martinfowler.com/ 'Martin Fowler')
 - [Michael Feathers](https://michaelfeathers.silvrback.com/ 'Michael Feathers')
