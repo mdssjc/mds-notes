@@ -10,7 +10,6 @@
 ## Libraries or Frameworks
 
 - [Spring](https://spring.io/ 'Spring')
-- [Processing](https://processing.org/ 'Processing')
 - [Failsafe](https://failsafe.dev/ 'Failsafe')
 - [Resilience4j](https://resilience4j.readme.io/ 'Resilience4j')
 
