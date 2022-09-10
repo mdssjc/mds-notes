@@ -10,3 +10,4 @@
 ## Comunidade
 
 - [Eric Normand](https://ericnormand.me/ 'Eric Normand')
+- [Shriram Krishnamurthi](https://cs.brown.edu/~sk/ 'Shriram Krishnamurthi')
