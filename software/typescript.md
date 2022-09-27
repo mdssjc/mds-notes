@@ -10,16 +10,25 @@
 
 ## Tools
 
+- [Visual Studio Code](https://code.visualstudio.com/ 'Visual Studio Code')
 - [Vite](https://vitejs.dev/ 'Vite')
 
 ## Frameworks
+
+### Web
 
 - [Angular](https://angular.io/ 'Angular')
 - [Angular Material UI](https://material.angular.io/ 'Angular Material UI')
 - [NGRX](https://ngrx.io/ 'NGRX')
 - [Qwik](https://qwik.builder.io/ 'Qwik')
 - [Svelte](https://svelte.dev/ 'Svelte')
+
+### Processing
+
 - [P5JS](https://p5js.org/ 'P5JS')
+
+### Mobile
+
 - [Ionic](https://ionicframework.com/ 'Ionic')
 - [Capacitor](https://capacitorjs.com/ 'Capacitor')
 - [NativeScript](https://nativescript.org/ 'NativeScript')
