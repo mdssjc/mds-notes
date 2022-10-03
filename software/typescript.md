@@ -12,6 +12,7 @@
 
 - [Visual Studio Code](https://code.visualstudio.com/ 'Visual Studio Code')
 - [Vite](https://vitejs.dev/ 'Vite')
+- [Astro](https://astro.build/ 'Astro')
 
 ## Frameworks
 
@@ -22,6 +23,7 @@
 - [NGRX](https://ngrx.io/ 'NGRX')
 - [Qwik](https://qwik.builder.io/ 'Qwik')
 - [Svelte](https://svelte.dev/ 'Svelte')
+- [SolidJS](https://www.solidjs.com/ 'SolidJS')
 
 ### Processing
 
