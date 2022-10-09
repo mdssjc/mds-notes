@@ -14,6 +14,10 @@
 - [Vite](https://vitejs.dev/ 'Vite')
 - [Astro](https://astro.build/ 'Astro')
 
+## Design System
+
+- [Bootstrap](https://getbootstrap.com/ 'Bootstrap')
+
 ## Frameworks
 
 ### Web
@@ -22,8 +26,6 @@
 - [Angular Material UI](https://material.angular.io/ 'Angular Material UI')
 - [NGRX](https://ngrx.io/ 'NGRX')
 - [Qwik](https://qwik.builder.io/ 'Qwik')
-- [Svelte](https://svelte.dev/ 'Svelte')
-- [SolidJS](https://www.solidjs.com/ 'SolidJS')
 
 ### Processing
 
