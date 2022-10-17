@@ -16,6 +16,11 @@ Modernas:
 - [Rust](software/rust.md 'Rust')
 - [Typescript](software/typescript.md 'Typescript')
 
+Outras:
+
+- [Ruby](software/ruby.md 'Ruby')
+- [Elixir](software/elixir.md 'Elixir')
+
 Low Code:
 
 - [Amplication](https://amplication.com/ 'Amplication')
