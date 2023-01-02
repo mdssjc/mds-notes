@@ -12,11 +12,12 @@ O Java é uma linguagem/tecnologia _mainstream_, atualmente na versão LTS 17.
 - [Spring](https://spring.io/ 'Spring')
 - [Failsafe](https://failsafe.dev/ 'Failsafe')
 - [Resilience4j](https://resilience4j.readme.io/ 'Resilience4j')
+- [Processing](https://processing.org/ 'Processing')
 
 ## JavaFX
 
-- [Gluon](https://gluonhq.com/ 'Gluon')
 - [JavaFX](https://openjfx.io/ 'JavaFX')
+- [Gluon](https://gluonhq.com/ 'Gluon')
 
 ## Community
 
