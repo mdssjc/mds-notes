@@ -8,6 +8,7 @@ Mainstream:
 Acadêmicas:
 
 - [OCaml](software/ocaml.md 'OCaml')
+- [Haskell](software/haskell.mds 'Haskell')
 - [Lisp](software/lisp.md 'Lisp')
 
 Modernas:
