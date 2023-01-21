@@ -4,12 +4,15 @@
 - [Flutter](https://flutter.dev/ 'Flutter')
 - [Dart packages](https://pub.dev/ 'Dart packages')
 - [DartPad](https://www.dartpad.dev/ 'DartPad')
+
+## Libraries or Frameworks
+
 - [Bloc State Management Library](https://bloclibrary.dev/ 'Bloc State Management Library')
 - [Riverpod](https://riverpod.dev/ 'Riverpod')
 - [MobX](https://mobx.netlify.app/ 'MobX')
 - [Flame Engine](https://flame-engine.org/ 'Flame Engine')
 
-## Comunidade
+## Community
 
 - [Code With Andrea](https://codewithandrea.com/ 'Code With Andrea')
 - [Flame Engine](https://www.youtube.com/channel/UCinjCGNThGXbUYFgfgsI0bA 'Flame Engine')
