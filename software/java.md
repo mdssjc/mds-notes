@@ -10,8 +10,10 @@ O Java é uma linguagem/tecnologia _mainstream_, atualmente na versão LTS 17.
 ## Libraries or Frameworks
 
 - [Spring](https://spring.io/ 'Spring')
-- [Failsafe](https://failsafe.dev/ 'Failsafe')
+- [Quarkus](https://quarkus.io/ 'Quarkus')
+- [Micronaut](https://micronaut.io/ 'Micronaut')
 - [Resilience4j](https://resilience4j.readme.io/ 'Resilience4j')
+- [Failsafe](https://failsafe.dev/ 'Failsafe')
 - [Processing](https://processing.org/ 'Processing')
 
 ## JavaFX
