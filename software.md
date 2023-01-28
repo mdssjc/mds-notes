@@ -40,7 +40,7 @@ IDE:
 - [IntelliJ IDEA](jetbrains.com/idea/ 'IntelliJ IDEA')
 - [Visual Studio Code](https://code.visualstudio.com/ 'Visual Studio Code')
 
-## Arquitetura
+## Architecture
 
 - [Design Patterns & Refactoring](https://sourcemaking.com/ 'Design Patterns & Refactoring')
 - [Garfixia Software Architectures](https://www.dossier-andreas.net/software_architecture/ 'Garfixia Software Architectures')
@@ -51,7 +51,7 @@ IDE:
 - [Reflectoring - Where the HOW meets the WHY](https://reflectoring.io/ 'Reflectoring - Where the HOW meets the WHY')
 - [Software Developer To Software Architect](https://developertoarchitect.com/ 'Software Developer To Software Architect')
 
-## Autores
+## Authors
 
 - [Addy Osmani](https://addyosmani.com/ 'Addy Osmani')
 - [Aleksey Shipilëv](https://shipilev.net/ 'Aleksey Shipilëv')
@@ -68,3 +68,7 @@ IDE:
 - [Peter Norvig](https://norvig.com/ 'Peter Norvig')
 - [Ron Jeffries](https://ronjeffries.com/ 'Ron Jeffries')
 - [Uncle Bob Martin](http://cleancoder.com/ 'Uncle Bob Martin')
+
+## University
+
+- [Redis University](https://university.redis.com/ 'Redis University')
