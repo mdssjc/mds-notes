@@ -25,6 +25,7 @@
 - [Angular](https://angular.io/ 'Angular')
 - [Angular Material UI](https://material.angular.io/ 'Angular Material UI')
 - [NGRX](https://ngrx.io/ 'NGRX')
+- [Svelte](https://svelte.dev/ 'Svelte')
 - [Qwik](https://qwik.builder.io/ 'Qwik')
 
 ### Processing

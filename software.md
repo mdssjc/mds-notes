@@ -35,11 +35,6 @@ Low Code:
 - [Node-RED](https://nodered.org/ 'Node-RED')
 - [Orange](https://orangedatamining.com/ 'Orange')
 
-IDE:
-
-- [IntelliJ IDEA](jetbrains.com/idea/ 'IntelliJ IDEA')
-- [Visual Studio Code](https://code.visualstudio.com/ 'Visual Studio Code')
-
 ## Architecture
 
 - [Design Patterns & Refactoring](https://sourcemaking.com/ 'Design Patterns & Refactoring')
