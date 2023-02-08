@@ -67,3 +67,5 @@ Low Code:
 ## University
 
 - [Redis University](https://university.redis.com/ 'Redis University')
+- [MongoDB University](https://learn.mongodb.com/ 'MongoDB University')
+- [Spring Academy](https://spring.academy/ 'Spring Academy')
