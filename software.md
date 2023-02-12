@@ -35,40 +35,7 @@ Low Code:
 - [Node-RED](https://nodered.org/ 'Node-RED')
 - [Orange](https://orangedatamining.com/ 'Orange')
 
-## Architecture
+Aprendizado:
 
-- [Design Patterns & Refactoring](https://sourcemaking.com/ 'Design Patterns & Refactoring')
-- [Garfixia Software Architectures](https://www.dossier-andreas.net/software_architecture/ 'Garfixia Software Architectures')
-- [Huston Design Patterns](http://www.vincehuston.org/dp/ 'Huston Design Patterns')
-- [Patterns.dev](https://www.patterns.dev/ 'Patterns.dev')
-- [Ploeh blog](https://blog.ploeh.dk/ 'Ploeh blog')
-- [Refactoring and Design Patterns](https://refactoring.guru/ 'Refactoring and Design Patterns')
-- [Reflectoring - Where the HOW meets the WHY](https://reflectoring.io/ 'Reflectoring - Where the HOW meets the WHY')
-- [Software Developer To Software Architect](https://developertoarchitect.com/ 'Software Developer To Software Architect')
-
-## Authors
-
-- [Addy Osmani](https://addyosmani.com/ 'Addy Osmani')
-- [Aleksey Shipilëv](https://shipilev.net/ 'Aleksey Shipilëv')
-- [Bartosz Milewski](https://bartoszmilewski.com/ 'Bartosz Milewski')
-- [Bertrand Meyer](https://bertrandmeyer.com/ 'Bertrand Meyer')
-- [Cay Horstmann](https://horstmann.com/ 'Cay Horstmann')
-- [Cunningham & Cunningham](http://c2.com/ 'Cunningham & Cunningham')
-- [Dan Grossman](https://homes.cs.washington.edu/~djg/ 'Dan Grossman')
-- [Daniel Shiffman](https://shiffman.net/ 'Daniel Shiffman')
-- [Douglas C. Schmidt](https://www.dre.vanderbilt.edu/~schmidt/ 'Douglas C. Schmidt')
-- [Khalil Stemmler](https://khalilstemmler.com/ 'Khalil Stemmler')
-- [Martin Fowler](https://martinfowler.com/ 'Martin Fowler')
-- [Michael Feathers](https://michaelfeathers.silvrback.com/ 'Michael Feathers')
-- [Peter Norvig](https://norvig.com/ 'Peter Norvig')
-- [Ron Jeffries](https://ronjeffries.com/ 'Ron Jeffries')
-- [Uncle Bob Martin](http://cleancoder.com/ 'Uncle Bob Martin')
-
-## University
-
-- [GraphQL](https://www.apollographql.com/tutorials/#certifications 'GraphQL')
-- [Liquibase University](https://learn.liquibase.com/ 'Liquibase University')
-- [MongoDB University](https://learn.mongodb.com/ 'MongoDB University')
-- [Neo4j GraphAcademy](https://graphacademy.neo4j.com/ 'Neo4j GraphAcademy')
-- [Redis University](https://university.redis.com/ 'Redis University')
-- [Spring Academy](https://spring.academy/ 'Spring Academy')
+- [Community](software/community.md 'Community')
+- [University](software/university.md 'University')
