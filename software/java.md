@@ -10,6 +10,7 @@ O Java é uma linguagem/tecnologia _mainstream_, atualmente na versão LTS 17.
 ## Tools
 
 - [IntelliJ IDEA](jetbrains.com/idea/ 'IntelliJ IDEA')
+- [Adoptium](https://adoptium.net/ 'Adoptium')
 
 ## Libraries or Frameworks
 
