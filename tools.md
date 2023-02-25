@@ -80,3 +80,9 @@ Como validar as questões:
 - **then (então)**: resultado
 - **and (e)**: conectivo
 - **but (mas)**: conectivo
+
+### Outras Ferramentas
+
+- brainstorming;
+- mapa mental ou conceitual; e
+- sketchnotes.
