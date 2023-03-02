@@ -84,5 +84,13 @@ Como validar as questões:
 ### Outras Ferramentas
 
 - brainstorming;
+  - scamper:
+    - substituir
+    - combinar
+    - adaptar
+    - modificar
+    - propor
+    - eliminar
+    - reordenar
 - mapa mental ou conceitual; e
 - sketchnotes.
