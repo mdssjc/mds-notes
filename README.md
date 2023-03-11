@@ -17,7 +17,8 @@
 - [O que assistir?](videos.md 'O que assistir?')
 - [Resiliência](resilience.md 'Resiliência')
 - [Software](software.md 'Software')
+- [Livros](books.md 'Livros')
 
 ## Data da Atualização
 
-06/03/2023
+13/03/2023
