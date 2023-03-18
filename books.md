@@ -1,6 +1,7 @@
 # LIVROS
 
 - [Atomic Design](https://atomicdesign.bradfrost.com/ 'Atomic Design')
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/ 'Automate the Boring Stuff with Python')
 - [Crafting Interpreters](http://www.craftinginterpreters.com/ 'Crafting Interpreters')
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/ 'Game Programming Patterns')
 - [The Nature of Code](https://natureofcode.com/ 'The Nature of Code')
