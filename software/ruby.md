@@ -1,6 +1,7 @@
 # RUBY
 
 - [Ruby](https://www.ruby-lang.org/ 'Ruby')
+- [Crystal](https://crystal-lang.org/ 'Crystal')
 
 ## Libraries or Frameworks
 
