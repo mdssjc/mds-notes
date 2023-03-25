@@ -18,6 +18,7 @@
 - [Resiliência](resilience.md 'Resiliência')
 - [Software](software.md 'Software')
 - [Livros](books.md 'Livros')
+- [Idiomas](languages.md 'Idiomas')
 
 ## Data da Atualização
 
