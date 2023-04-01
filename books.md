@@ -3,7 +3,9 @@
 - [Atomic Design](https://atomicdesign.bradfrost.com/ 'Atomic Design')
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/ 'Automate the Boring Stuff with Python')
 - [Crafting Interpreters](http://www.craftinginterpreters.com/ 'Crafting Interpreters')
+- [Data Science at the Command Line](https://datascienceatthecommandline.com/ 'Data Science at the Command Line')
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/ 'Game Programming Patterns')
+- [Introduction to Computing - Explorations in Language, Logic, and Machines](http://computingbook.org/ 'Introduction to Computing - Explorations in Language, Logic, and Machines')
 - [The Nature of Code](https://natureofcode.com/ 'The Nature of Code')
 
 ## Livros Interativos
