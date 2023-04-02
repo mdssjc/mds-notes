@@ -36,4 +36,3 @@
 
 - [Ionic](https://ionicframework.com/ 'Ionic')
 - [Capacitor](https://capacitorjs.com/ 'Capacitor')
-- [NativeScript](https://nativescript.org/ 'NativeScript')
