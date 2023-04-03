@@ -22,6 +22,11 @@
 - [Reso Coder](https://www.youtube.com/c/ResoCoder 'Reso Coder')
 - [Very Good Ventures](https://verygood.ventures/ 'Very Good Ventures')
 
+### Redit
+
+- [r/dart](https://www.reddit.com/r/dartlang 'r/dart')
+- [r/FlutterDev](https://www.reddit.com/r/FlutterDev 'r/FlutterDev')
+
 ## Open Source
 
 - [Flutter Design Patterns](https://flutterdesignpatterns.com/ 'Flutter Design Patterns')
