@@ -1,9 +1,13 @@
 # DART
 
+O Dart é uma linguagem/tecnologia de programação para aplicações.
+
 - [Dart](https://dart.dev/ 'Dart')
 - [Flutter](https://flutter.dev/ 'Flutter')
 - [Dart packages](https://pub.dev/ 'Dart packages')
 - [DartPad](https://www.dartpad.dev/ 'DartPad')
+- [Codelabs](https://codelabs.developers.google.com/?text=flutter 'Codelabs')
+- [Pathways](https://developers.google.com/learn/pathways?text=flutter 'Pathways')
 
 ## Libraries or Frameworks
 
