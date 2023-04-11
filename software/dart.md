@@ -20,17 +20,20 @@ O Dart é uma linguagem/tecnologia de programação para aplicações.
 ## Community
 
 - [Code With Andrea](https://codewithandrea.com/ 'Code With Andrea')
-- [Flame Engine](https://www.youtube.com/channel/UCinjCGNThGXbUYFgfgsI0bA 'Flame Engine')
-- [Flutter Community](https://www.youtube.com/c/FlutterCommunityVideos 'Flutter Community')
-- [Flutter](https://www.youtube.com/c/flutterdev 'Flutter')
-- [Flutterly](https://www.youtube.com/c/Flutterly 'Flutterly')
-- [Reso Coder](https://www.youtube.com/c/ResoCoder 'Reso Coder')
 - [Very Good Ventures](https://verygood.ventures/ 'Very Good Ventures')
 
-### Redit
+### Reddit
 
 - [r/dart](https://www.reddit.com/r/dartlang 'r/dart')
 - [r/FlutterDev](https://www.reddit.com/r/FlutterDev 'r/FlutterDev')
+
+### Youtube
+
+- [Flutter](https://www.youtube.com/c/flutterdev 'Flutter')
+- [Flutter Community](https://www.youtube.com/c/FlutterCommunityVideos 'Flutter Community')
+- [Flame Engine](https://www.youtube.com/channel/UCinjCGNThGXbUYFgfgsI0bA 'Flame Engine')
+- [Flutterly](https://www.youtube.com/c/Flutterly 'Flutterly')
+- [Reso Coder](https://www.youtube.com/c/ResoCoder 'Reso Coder')
 
 ## Open Source
 
