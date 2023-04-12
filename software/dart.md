@@ -1,6 +1,6 @@
 # DART
 
-O Dart é uma linguagem/tecnologia de programação para aplicações.
+O Dart é uma linguagem/tecnologia de programação para aplicações, já o Flutter é o framework mais utilizado do ecossistema e permiter criar aplicações para Android, iOS, Browsers, Windows, Linux e MacOS.
 
 - [Dart](https://dart.dev/ 'Dart')
 - [Flutter](https://flutter.dev/ 'Flutter')
@@ -34,6 +34,10 @@ O Dart é uma linguagem/tecnologia de programação para aplicações.
 - [Flame Engine](https://www.youtube.com/channel/UCinjCGNThGXbUYFgfgsI0bA 'Flame Engine')
 - [Flutterly](https://www.youtube.com/c/Flutterly 'Flutterly')
 - [Reso Coder](https://www.youtube.com/c/ResoCoder 'Reso Coder')
+
+### Course
+
+- [Flutter & Dart - The Complete Guide 2023 Edition](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/ 'Flutter & Dart - The Complete Guide [2023 Edition]')
 
 ## Open Source
 
