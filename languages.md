@@ -9,6 +9,7 @@ Recursos para o aprendizado de idiomas
 ## Japonês
 
 - [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/ "Tae Kim's Guide to Learning Japanese")
+- [NHK](https://www.nhk.or.jp/lesson/ 'NHK')
 
 ## Comunidade
 
