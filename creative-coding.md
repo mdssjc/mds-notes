@@ -1,5 +1,7 @@
 # CREATIVE CODING
 
+Principais páginas para a programação criativa.
+
 - [Processing](https://processing.org/ 'Processing')
 - [P5JS](https://p5js.org/ 'P5JS')
 - [Nannou](https://nannou.cc/ 'Nannou')

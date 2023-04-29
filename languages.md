@@ -1,6 +1,6 @@
 # IDIOMAS
 
-Recursos para o aprendizado de idiomas
+Recursos para o aprendizado de idiomas.
 
 ## Inglês
 
