@@ -4,7 +4,6 @@ Mainstream:
 
 - [Java](software/java.md 'Java')
 - [Kotlin](software/kotlin.md 'Kotlin')
-- [Scala](software/scala.md 'Scala')
 
 Acadêmicas:
 
@@ -20,6 +19,7 @@ Modernas:
 Outras:
 
 - [Ruby](software/ruby.md 'Ruby')
+- [Scala](software/scala.md 'Scala')
 
 Low Code:
 
