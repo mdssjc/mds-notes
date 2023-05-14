@@ -11,4 +11,5 @@ Observação: a _Epic Games_ libera um ou mais jogos gratuitamente toda semana, 
 ## Streaming
 
 - [JulinhoRockman](https://www.twitch.tv/julinhorockman 'JulinhoRockman'): jogos retro com bate-bapo e humor.
+- [Marginal](https://www.twitch.tv/marginal 'Marginal'): jogos multiplayer com muita zueira.
 - [misterYeti](https://www.twitch.tv/misteryeti 'misterYeti'): jogos retro.
