@@ -1,6 +1,6 @@
 # DART
 
-O Dart é uma linguagem/tecnologia de programação para aplicações, já o Flutter é o framework mais utilizado do ecossistema e permiter criar aplicações para Android, iOS, Browsers, Windows, Linux e MacOS.
+O _Dart_ é uma linguagem/tecnologia de programação para aplicações, já o _Flutter_ é o _framework_ mais utilizado do ecossistema e permiter criar aplicações para _Android_, _iOS_, _Browsers_, _Windows_, _Linux_ e _MacOS_.
 
 - [Dart](https://dart.dev/ 'Dart')
 - [Flutter](https://flutter.dev/ 'Flutter')
