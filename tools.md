@@ -37,7 +37,18 @@ Aplicando os princípios de que:
 - os experimentos devem ser **reproduzíveis** (_reproducible_); e
 - as hipóteses devem ser **falsificáveis** (_falsifiable_)
 
+## Gerenciamento
+
+- GTD: Getting Things Done
+- Pomodoro
+- Matriz de Eisenhower
+- Golden Circle
+
 ## Ideias
+
+- SMART
+- INVEST
+- 5W2H
 
 ### SMART
 
