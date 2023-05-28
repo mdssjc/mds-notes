@@ -42,7 +42,25 @@ Aplicando os princípios de que:
 - GTD: Getting Things Done
 - Pomodoro
 - Matriz de Eisenhower
-- Golden Circle
+- Golden Circle (_by Simon Snek_)
+  - [TED: How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action/c 'How great leaders inspire action')
+  - why?
+    - why: do you do what you do?
+    - what is the purpose?
+    - beliefs
+  - how?
+    - how: do you do what you do?
+    - process
+  - what?
+    - what: do you do?
+    - results
+  - aja, pense e comunique de dentro para fora
+  - why/how -> cérebro límbico
+    - sua confiança controla o comportamento e a tomada de decisão
+    - resultado: inspiração e lealdade
+  - what -> cérebro neocortex
+    - seu racional controla os sentidos, raciocínio espacial, pensamento analítico e linguagem
+    - resultado: racionalização e comunicação
 
 ## Ideias
 
