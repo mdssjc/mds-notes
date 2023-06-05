@@ -13,3 +13,7 @@
 - [Immersive Linear Algebra](http://immersivemath.com/ila/index.html 'Immersive Linear Algebra')
 - [OKAI - An Interactive Introduction to Artificial Intelligence (AI)](https://okai.brown.edu/ 'OKAI - An Interactive Introduction to Artificial Intelligence (AI)')
 - [Seeing Teory - A visual introduction to probability and statistics](https://seeing-theory.brown.edu/ 'Seeing Teory - A visual introduction to probability and statistics')
+
+## Editoras
+
+- [Editora Sextante](https://sextante.com.br/ 'Editora Sextante')
