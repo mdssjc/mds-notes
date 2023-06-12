@@ -3,6 +3,12 @@
 - [Rust](https://www.rust-lang.org/ 'Rust')
 - [Rust Blog](https://blog.rust-lang.org/ 'Rust Blog')
 
+## Tools
+
+- [IntelliJ Rust](https://www.jetbrains.com/rust/ 'IntelliJ Rust')
+- [Helix](https://helix-editor.com/ 'Helix')
+- [Lapce](https://lapce.dev/ 'Lapce')
+
 ## Libraries or Frameworks
 
 - [Tauri](https://tauri.studio/en/ 'Tauri')
