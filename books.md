@@ -17,3 +17,6 @@
 ## Editoras
 
 - [Editora Sextante](https://sextante.com.br/ 'Editora Sextante')
+- [The Pragmatic Bookshelf](https://pragprog.com/ 'The Pragmatic Bookshelf')
+- [No Starch Press](https://nostarch.com/ 'No Starch Press')
+- [Manning Publications](https://www.manning.com/ 'Manning Publications')
