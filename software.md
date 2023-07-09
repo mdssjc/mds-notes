@@ -13,6 +13,7 @@ Acadêmicas:
 Modernas:
 
 - [Dart](software/dart.md 'Dart')
+- [Go](software/go.md 'Go')
 - [Rust](software/rust.md 'Rust')
 - [Typescript](software/typescript.md 'Typescript')
 
