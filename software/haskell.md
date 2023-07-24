@@ -2,6 +2,10 @@
 
 - [Haskell](https://www.haskell.org/ 'Haskell')
 
+## Libraries or Frameworks
+
+- [Pandoc](https://pandoc.org/ 'Pandoc')
+
 ## Books
 
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/ 'Learn You a Haskell for Great Good!')
