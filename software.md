@@ -34,6 +34,12 @@ Low Code:
 - [Node-RED](https://nodered.org/ 'Node-RED')
 - [Orange](https://orangedatamining.com/ 'Orange')
 
+Tools:
+
+- [Codeium](https://codeium.com/ 'Codeium'): IA para geração de códigos
+- [IntelliJ](https://www.jetbrains.com/ 'IntelliJ'): IDE
+- [VsCode](https://code.visualstudio.com/ 'VsCode'): Editor
+
 Aprendizado:
 
 - [Community](software/community.md 'Community')
