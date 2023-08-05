@@ -10,29 +10,21 @@
 
 ## Tools
 
-- [Visual Studio Code](https://code.visualstudio.com/ 'Visual Studio Code')
+- [VsCode](https://code.visualstudio.com/ 'VsCode')
 - [Vite](https://vitejs.dev/ 'Vite')
 - [Astro](https://astro.build/ 'Astro')
 
-## Design System
+## Libraries or Frameworks
 
-- [Bootstrap](https://getbootstrap.com/ 'Bootstrap')
-
-## Frameworks
+- [P5JS](https://p5js.org/ 'P5JS')
+- [Ionic](https://ionicframework.com/ 'Ionic')
+- [Capacitor](https://capacitorjs.com/ 'Capacitor')
 
 ### Web
 
 - [Angular](https://angular.io/ 'Angular')
 - [Angular Material UI](https://material.angular.io/ 'Angular Material UI')
 - [NGRX](https://ngrx.io/ 'NGRX')
+- [Bootstrap](https://getbootstrap.com/ 'Bootstrap')
 - [Svelte](https://svelte.dev/ 'Svelte')
 - [Qwik](https://qwik.builder.io/ 'Qwik')
-
-### Processing
-
-- [P5JS](https://p5js.org/ 'P5JS')
-
-### Mobile
-
-- [Ionic](https://ionicframework.com/ 'Ionic')
-- [Capacitor](https://capacitorjs.com/ 'Capacitor')
