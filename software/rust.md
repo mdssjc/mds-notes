@@ -18,7 +18,7 @@
 ## Community
 
 - [This Week in Rust](https://this-week-in-rust.org/ 'This Week in Rust')
-- [Rustnote](https://www.rustnote.com/ 'Rustnote')
+- [Rust GameDev WG](https://gamedev.rs/ 'Rust GameDev WG')
 - [Are we game yet?](https://arewegameyet.rs/ 'Are we game yet?')
 - [Rust Playground](https://play.rust-lang.org/ 'Rust Playground')
 - [Awesome Rust Mentors](https://rustbeginners.github.io/awesome-rust-mentors/ 'Awesome Rust Mentors')
