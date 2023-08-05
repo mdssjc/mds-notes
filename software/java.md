@@ -11,6 +11,7 @@ O Java é uma linguagem/tecnologia _mainstream_, atualmente na versão LTS 17.
 
 - [IntelliJ IDEA](jetbrains.com/idea/ 'IntelliJ IDEA')
 - [Adoptium](https://adoptium.net/ 'Adoptium')
+- [VsCode](https://code.visualstudio.com/ 'VsCode')
 
 ## Libraries or Frameworks
 
@@ -18,6 +19,7 @@ O Java é uma linguagem/tecnologia _mainstream_, atualmente na versão LTS 17.
 - [Spring](https://spring.io/ 'Spring')
 - [Quarkus](https://quarkus.io/ 'Quarkus')
 - [Micronaut](https://micronaut.io/ 'Micronaut')
+- [Helidon](https://helidon.io/ 'Helidon')
 - [Resilience4j](https://resilience4j.readme.io/ 'Resilience4j')
 - [Failsafe](https://failsafe.dev/ 'Failsafe')
 
