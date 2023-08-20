@@ -9,6 +9,8 @@ A linguagem **Clojure** é um dialeto LISP voltado ao mercado _mainstream_, prin
 
 ## Community
 
-- [Eric Normand](https://ericnormand.me/ 'Eric Normand')
+- [Matthias Felleisen](https://felleisen.org/matthias/ 'Matthias Felleisen')
+- [Matthew Flatten](https://users.cs.utah.edu/~mflatt/ 'Matthew Flatten')
 - [Shriram Krishnamurthi](https://cs.brown.edu/~sk/ 'Shriram Krishnamurthi')
+- [Eric Normand](https://ericnormand.me/ 'Eric Normand')
 - [Racket Stories](https://racket-stories.com/ 'Racket Stories')
