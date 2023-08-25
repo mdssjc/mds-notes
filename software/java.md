@@ -22,6 +22,7 @@ O Java é uma linguagem/tecnologia _mainstream_, atualmente na versão LTS 17.
 - [Helidon](https://helidon.io/ 'Helidon')
 - [Resilience4j](https://resilience4j.readme.io/ 'Resilience4j')
 - [Failsafe](https://failsafe.dev/ 'Failsafe')
+- [Karate](https://karatelabs.github.io/karate/ 'Karate')
 
 ### Code Generator
 
