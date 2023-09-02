@@ -1,5 +1,11 @@
 # UNIVERSITY
 
+## Academic
+
+- [Disciplinas da USP](https://edisciplinas.usp.br/ 'Disciplinas da USP')
+
+## Technical
+
 - [GraphQL](https://www.apollographql.com/tutorials/#certifications 'GraphQL')
 - [Liquibase University](https://learn.liquibase.com/ 'Liquibase University')
 - [MongoDB University](https://learn.mongodb.com/ 'MongoDB University')
