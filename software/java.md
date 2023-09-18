@@ -1,6 +1,8 @@
 # JAVA
 
-O Java é uma linguagem/tecnologia _mainstream_, atualmente na versão LTS 17.
+O Java é uma linguagem/tecnologia _mainstream_, atualmente na versão 17 LTS.
+
+Dia 19/09 estará disponível a versão 21 LTS.
 
 - [Java](https://www.oracle.com/java/ 'Java')
 - [Jetbrains](https://www.jetbrains.com/ 'Jetbrains')
