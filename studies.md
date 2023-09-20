@@ -21,3 +21,7 @@
   - [Udemy](https://www.udemy.com/user/sgslo/ 'Udemy')
   - [Twitter](https://twitter.com/ste_grider 'Twitter')
   - [YouTube](https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg 'YouTube')
+
+## Matemática
+
+- [Professor Leonard](https://www.youtube.com/@ProfessorLeonard 'Professor Leonard')
