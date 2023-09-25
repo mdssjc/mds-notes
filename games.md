@@ -13,3 +13,10 @@ Observação: a _Epic Games_ libera um ou mais jogos gratuitamente toda semana, 
 - [JulinhoRockman](https://www.twitch.tv/julinhorockman 'JulinhoRockman'): jogos retro com bate-bapo e humor.
 - [Marginal](https://www.twitch.tv/marginal 'Marginal'): jogos multiplayer com muita zueira.
 - [misterYeti](https://www.twitch.tv/misteryeti 'misterYeti'): jogos retro.
+
+## Game Development
+
+- [Defold](https://defold.com/ 'Defold')
+- [Godot](https://godotengine.org/ 'Godot')
+- [GDevelop](https://gdevelop-app.com/ 'GDevelop')
+- [Unity](https://unity.com/ 'Unity')
