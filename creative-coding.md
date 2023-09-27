@@ -10,7 +10,10 @@ Principais páginas para a programação criativa.
 ## Books
 
 - [The Nature of Code](https://natureofcode.com/ 'The Nature of Code')
-- [The Nature of Code 2](https://nostarch.com/nature-code 'The Nature of Code 2')
+- [The Nature of Code 2](https://nostarch.com/nature-code/ 'The Nature of Code 2')
+- [The Nature of Code 2](https://nature-of-code-2nd-edition.netlify.app/ 'The Nature of Code 2')
+- [Generative Gestaltung](http://www.generative-gestaltung.de/ 'Generative Gestaltung')
+- [The Book of Shaders](https://thebookofshaders.com/ 'The Book of Shaders')
 
 ## Community
 
