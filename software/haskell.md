@@ -15,3 +15,4 @@
 
 - [Graham Hutton](http://www.cs.nott.ac.uk/~pszgmh/ 'Graham Hutton')
 - [Haskell da UFABC](https://haskell.pesquisa.ufabc.edu.br/ 'Haskell da UFABC')
+- [Bartosz Milewski](https://bartoszmilewski.com/ 'Bartosz Milewski')
