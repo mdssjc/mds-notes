@@ -14,3 +14,4 @@
 
 - [Ruby Awesome](https://github.com/markets/awesome-ruby 'Ruby Awesome')
 - [Crystal Awesome](https://github.com/veelenga/awesome-crystal 'Crystal Awesome')
+- [Ruby Weekly](https://rubyweekly.com/ 'Ruby Weekly')
