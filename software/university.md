@@ -3,6 +3,7 @@
 ## Academic
 
 - [Disciplinas da USP](https://edisciplinas.usp.br/ 'Disciplinas da USP')
+- [Coursera USP](https://www.coursera.org/usp/ 'Coursera USP')
 
 ## Technical
 
