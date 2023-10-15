@@ -1,27 +1,17 @@
 # ESTUDOS
 
-## Programação
+Conteúdo de computação e matemática.
 
-- **Dr. Angela Yu**
+- [Universidade Brasileira Livre](https://ulivre.dev/ 'Universidade Brasileira Livre'): universidade autoditada para ciência da computação e matemática.
 
-  - [The App Brewery](https://www.appbrewery.com/ 'The App Brewery')
-  - [Udemy](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/ 'Udemy')
-  - [Twitter](https://twitter.com/yu_angela 'Twitter')
+## Geral
 
-- **Maximilian Schwarzmüller**
+- [Disciplinas da USP](https://edisciplinas.usp.br/ 'Disciplinas da USP')
+- [Coursera USP](https://www.coursera.org/usp/ 'Coursera USP')
 
-  - [Academind](https://academind.com/ 'Academind')
-  - [Udemy 1](https://www.udemy.com/user/maximilian-schwarzmuller/ 'Udemy 1')
-  - [Udemy 2](https://www.udemy.com/user/academind/ 'Udemy 2')
-  - [Twitter](https://twitter.com/maxedapps 'Twitter')
-  - [YouTube](https://www.youtube.com/c/academind 'YouTube')
+## Professores
 
-- **Stephen Grider**
-  - [Rally Coding](https://rallycoding.com/ 'Rally Coding')
-  - [Udemy](https://www.udemy.com/user/sgslo/ 'Udemy')
-  - [Twitter](https://twitter.com/ste_grider 'Twitter')
-  - [YouTube](https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg 'YouTube')
-
-## Matemática
-
-- [Professor Leonard](https://www.youtube.com/@ProfessorLeonard 'Professor Leonard')
+- [Dr. Angela Yu](https://www.appbrewery.com/ 'Dr. Angela Yu'): programação
+- [Maximilian Schwarzmüller](https://academind.com/ 'Maximilian Schwarzmüller'): programação
+- [Stephen Grider](https://rallycoding.com/ 'Stephen Grider'): programação
+- [Professor Leonard](https://www.youtube.com/@ProfessorLeonard 'Professor Leonard'): matemática
