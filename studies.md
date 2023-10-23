@@ -11,7 +11,9 @@ Conteúdo de computação e matemática.
 
 ## Professores
 
+- [PhD Barbara Oakley](https://barbaraoakley.com/ 'PhD Barbara Oakley'): aprendizado
+- [Professor Leonard](https://www.youtube.com/@ProfessorLeonard 'Professor Leonard'): matemática
+- [Dr. Eugenia Cheng](https://eugeniacheng.com/ 'Dr. Eugenia Cheng'): matemática
 - [Dr. Angela Yu](https://www.appbrewery.com/ 'Dr. Angela Yu'): programação
 - [Maximilian Schwarzmüller](https://academind.com/ 'Maximilian Schwarzmüller'): programação
 - [Stephen Grider](https://rallycoding.com/ 'Stephen Grider'): programação
-- [Professor Leonard](https://www.youtube.com/@ProfessorLeonard 'Professor Leonard'): matemática
