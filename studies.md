@@ -10,6 +10,10 @@ Conteúdo de computação e matemática.
 - [Coursera USP](https://www.coursera.org/usp/ 'Coursera USP')
 - [OpenIntro](https://www.openintro.org/ 'OpenIntro'): livros de estatística e matemática.
 
+## Física
+
+- [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/ 'The Feynman Lectures on Physics'): livro de física.
+
 ## Professores
 
 - [PhD Barbara Oakley](https://barbaraoakley.com/ 'PhD Barbara Oakley'): aprendizado
