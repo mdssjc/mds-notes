@@ -9,6 +9,7 @@ Conteúdo de computação e matemática.
 - [Disciplinas da USP](https://edisciplinas.usp.br/ 'Disciplinas da USP')
 - [Coursera USP](https://www.coursera.org/usp/ 'Coursera USP')
 - [OpenIntro](https://www.openintro.org/ 'OpenIntro'): livros de estatística e matemática.
+- [Math Awesome](https://github.com/rossant/awesome-math 'Math Awesome'): lista de recursos de matemática.
 
 ## Física
 
