@@ -8,6 +8,9 @@ Conteúdo de computação e matemática.
 
 - [Disciplinas da USP](https://edisciplinas.usp.br/ 'Disciplinas da USP')
 - [Coursera USP](https://www.coursera.org/usp/ 'Coursera USP')
+
+## Matemática
+
 - [OpenIntro](https://www.openintro.org/ 'OpenIntro'): livros de estatística e matemática.
 - [Math Awesome](https://github.com/rossant/awesome-math 'Math Awesome'): lista de recursos de matemática.
 
@@ -23,3 +26,4 @@ Conteúdo de computação e matemática.
 - [Dr. Angela Yu](https://www.appbrewery.com/ 'Dr. Angela Yu'): programação
 - [Maximilian Schwarzmüller](https://academind.com/ 'Maximilian Schwarzmüller'): programação
 - [Stephen Grider](https://rallycoding.com/ 'Stephen Grider'): programação
+- [Graham Hutton](https://www.cs.nott.ac.uk/~pszgmh/ 'Graham Hutton'): programação Haskell
