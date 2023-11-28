@@ -9,8 +9,14 @@ Conteúdo de computação e matemática.
 - [Disciplinas da USP](https://edisciplinas.usp.br/ 'Disciplinas da USP')
 - [Coursera USP](https://www.coursera.org/usp/ 'Coursera USP')
 
+## Computação
+
+- [Victor Campos](https://www.youtube.com/@victoitor 'Victor Campos'): estrutura de dados e teoria dos grafos.
+
 ## Matemática
 
+- [Professor Leonard](https://www.youtube.com/@ProfessorLeonard 'Professor Leonard'): matemática.
+- [Dr. Eugenia Cheng](https://eugeniacheng.com/ 'Dr. Eugenia Cheng'): matemática
 - [OpenIntro](https://www.openintro.org/ 'OpenIntro'): livros de estatística e matemática.
 - [Math Awesome](https://github.com/rossant/awesome-math 'Math Awesome'): lista de recursos de matemática.
 
@@ -21,8 +27,6 @@ Conteúdo de computação e matemática.
 ## Professores
 
 - [PhD Barbara Oakley](https://barbaraoakley.com/ 'PhD Barbara Oakley'): aprendizado
-- [Professor Leonard](https://www.youtube.com/@ProfessorLeonard 'Professor Leonard'): matemática
-- [Dr. Eugenia Cheng](https://eugeniacheng.com/ 'Dr. Eugenia Cheng'): matemática
 - [Dr. Angela Yu](https://www.appbrewery.com/ 'Dr. Angela Yu'): programação
 - [Maximilian Schwarzmüller](https://academind.com/ 'Maximilian Schwarzmüller'): programação
 - [Stephen Grider](https://rallycoding.com/ 'Stephen Grider'): programação
