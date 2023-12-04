@@ -9,9 +9,17 @@ Conteúdo de computação e matemática.
 - [Disciplinas da USP](https://edisciplinas.usp.br/ 'Disciplinas da USP')
 - [Coursera USP](https://www.coursera.org/usp/ 'Coursera USP')
 
+## Aprendizado
+
+- [PhD Barbara Oakley](https://barbaraoakley.com/ 'PhD Barbara Oakley'): aprendizado
+
 ## Computação
 
 - [Victor Campos](https://www.youtube.com/@victoitor 'Victor Campos'): estrutura de dados e teoria dos grafos.
+- [Graham Hutton](https://www.cs.nott.ac.uk/~pszgmh/ 'Graham Hutton'): programação Haskell
+- [Dr. Angela Yu](https://www.appbrewery.com/ 'Dr. Angela Yu'): programação de aplicativos
+- [Maximilian Schwarzmüller](https://academind.com/ 'Maximilian Schwarzmüller'): programação de aplicativos
+- [Stephen Grider](https://rallycoding.com/ 'Stephen Grider'): programação de aplicativos
 
 ## Matemática
 
@@ -23,11 +31,3 @@ Conteúdo de computação e matemática.
 ## Física
 
 - [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/ 'The Feynman Lectures on Physics'): livro de física.
-
-## Professores
-
-- [PhD Barbara Oakley](https://barbaraoakley.com/ 'PhD Barbara Oakley'): aprendizado
-- [Dr. Angela Yu](https://www.appbrewery.com/ 'Dr. Angela Yu'): programação
-- [Maximilian Schwarzmüller](https://academind.com/ 'Maximilian Schwarzmüller'): programação
-- [Stephen Grider](https://rallycoding.com/ 'Stephen Grider'): programação
-- [Graham Hutton](https://www.cs.nott.ac.uk/~pszgmh/ 'Graham Hutton'): programação Haskell
