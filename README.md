@@ -21,10 +21,6 @@
 - [Resiliência](resilience.md 'Resiliência')
 - [Software](software.md 'Software')
 
-## Nota
-
-As notas voltarão a ser atualizadas em 2024.
-
 ## Data da Atualização
 
-11/12/2023
+01/01/2024
