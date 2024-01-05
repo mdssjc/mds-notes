@@ -4,6 +4,7 @@ Mainstream:
 
 - [Java](software/java.md 'Java')
 - [Kotlin](software/kotlin.md 'Kotlin')
+- [Typescript](software/typescript.md 'Typescript')
 
 Acadêmicas:
 
@@ -13,9 +14,8 @@ Acadêmicas:
 Modernas:
 
 - [Dart](software/dart.md 'Dart')
-- [Go](software/go.md 'Go')
 - [Rust](software/rust.md 'Rust')
-- [Typescript](software/typescript.md 'Typescript')
+- [Go](software/go.md 'Go')
 
 Outras:
 
