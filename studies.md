@@ -1,6 +1,6 @@
 # ESTUDOS
 
-Conteúdo de computação e matemática.
+Conteúdo de computação e matemática. Para melhorar o aprendizado, ver [Neurociência](neuro.md 'Neurociência').
 
 - [Universidade Brasileira Livre](https://ulivre.dev/ 'Universidade Brasileira Livre'): universidade autoditada para ciência da computação e matemática.
 
@@ -8,10 +8,6 @@ Conteúdo de computação e matemática.
 
 - [Disciplinas da USP](https://edisciplinas.usp.br/ 'Disciplinas da USP')
 - [Coursera USP](https://www.coursera.org/usp/ 'Coursera USP')
-
-## Aprendizado
-
-- [PhD Barbara Oakley](https://barbaraoakley.com/ 'PhD Barbara Oakley'): aprendizado
 
 ## Computação
 
