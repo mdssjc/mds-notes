@@ -27,3 +27,7 @@ Conteúdo de computação e matemática. Para melhorar o aprendizado, ver [Neuro
 ## Física
 
 - [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/ 'The Feynman Lectures on Physics'): livro de física.
+
+## Outros
+
+- [Explorable Explanations](https://explorabl.es/ 'Explorable Explanations'): explicações interativas.
