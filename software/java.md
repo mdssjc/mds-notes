@@ -15,13 +15,15 @@ O Java é uma linguagem/tecnologia _mainstream_, atualmente na versão 21 LTS.
 
 ## Libraries or Frameworks
 
-- [Processing](https://processing.org/ 'Processing')
 - [Spring](https://spring.io/ 'Spring')
 - [Quarkus](https://quarkus.io/ 'Quarkus')
 - [Micronaut](https://micronaut.io/ 'Micronaut')
 - [Helidon](https://helidon.io/ 'Helidon')
 - [Resilience4j](https://resilience4j.readme.io/ 'Resilience4j')
 - [Failsafe](https://failsafe.dev/ 'Failsafe')
+
+### Testing
+
 - [Karate](https://karatelabs.github.io/karate/ 'Karate')
 
 ### Code Generator
@@ -29,6 +31,10 @@ O Java é uma linguagem/tecnologia _mainstream_, atualmente na versão 21 LTS.
 - [Project Lombok](https://projectlombok.org/ 'Project Lombok')
 - [MapStruct](https://mapstruct.org/ 'MapStruct')
 - [Manifold](http://manifold.systems/ 'Manifold')
+
+## Creative Coding
+
+- [Processing](https://processing.org/ 'Processing')
 
 ## JavaFX
 
