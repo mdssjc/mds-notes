@@ -1,9 +1,10 @@
 # DART
 
-O _Dart_ é uma linguagem/tecnologia de programação para aplicações, já o _Flutter_ é o _framework_ mais utilizado do ecossistema e permiter criar aplicações para _Android_, _iOS_, _Browsers_, _Windows_, _Linux_ e _MacOS_.
+O _Dart_ é uma linguagem/tecnologia de programação para aplicações voltada para as interfaces gráficas, o _Flutter_ é o _framework_ mais utilizado do ecossistema e permiter distribuir aplicações para _Android_, _iOS_, _Browsers_, _Windows_, _Linux_ e _MacOS_, já o _Flame_ é um _engine_ para jogos sobre o _framework_ _Flutter_.
 
 - [Dart](https://dart.dev/ 'Dart')
 - [Flutter](https://flutter.dev/ 'Flutter')
+- [Flame Engine](https://flame-engine.org/ 'Flame Engine')
 - [Dart packages](https://pub.dev/ 'Dart packages')
 - [DartPad](https://www.dartpad.dev/ 'DartPad')
 - [Dart Code](https://dartcode.org/ 'Dart Code')
@@ -15,7 +16,6 @@ O _Dart_ é uma linguagem/tecnologia de programação para aplicações, já o _
 - [Bloc State Management Library](https://bloclibrary.dev/ 'Bloc State Management Library')
 - [Riverpod](https://riverpod.dev/ 'Riverpod')
 - [MobX](https://mobx.netlify.app/ 'MobX')
-- [Flame Engine](https://flame-engine.org/ 'Flame Engine')
 
 ## Community
 
