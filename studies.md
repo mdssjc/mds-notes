@@ -1,6 +1,6 @@
 # ESTUDOS
 
-Conteúdo de computação e matemática. Para melhorar o aprendizado, ver [Neurociência](neuro.md 'Neurociência').
+Conteúdo sobre Ciência da Computação e Matemática. Para melhorar o aprendizado, ver [Neurociência](neuro.md 'Neurociência').
 
 - [Universidade Brasileira Livre](https://ulivre.dev/ 'Universidade Brasileira Livre'): universidade autoditada para ciência da computação e matemática.
 
@@ -19,8 +19,9 @@ Conteúdo de computação e matemática. Para melhorar o aprendizado, ver [Neuro
 
 ## Matemática
 
-- [Professor Leonard](https://www.youtube.com/@ProfessorLeonard 'Professor Leonard'): matemática.
-- [Dr. Eugenia Cheng](https://eugeniacheng.com/ 'Dr. Eugenia Cheng'): matemática
+- [Professor Leonard](https://www.youtube.com/@ProfessorLeonard 'Professor Leonard')
+- [Dr. Eugenia Cheng](https://eugeniacheng.com/ 'Dr. Eugenia Cheng')
+- [Sheldon Axler](https://www.axler.net/ 'Sheldon Axler')
 - [OpenIntro](https://www.openintro.org/ 'OpenIntro'): livros de estatística e matemática.
 - [Math Awesome](https://github.com/rossant/awesome-math 'Math Awesome'): lista de recursos de matemática.
 
