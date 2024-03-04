@@ -23,6 +23,7 @@
 ### Web
 
 - [Angular](https://angular.io/ 'Angular')
+- [Angular Developer](https://angular.dev/ 'Angular Developer')
 - [Angular Material UI](https://material.angular.io/ 'Angular Material UI')
 - [NGRX](https://ngrx.io/ 'NGRX')
 - [Bootstrap](https://getbootstrap.com/ 'Bootstrap')
