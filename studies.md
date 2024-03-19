@@ -3,6 +3,7 @@
 Conteúdo sobre Ciência da Computação e Matemática. Para melhorar o aprendizado, ver [Neurociência](neuro.md 'Neurociência').
 
 - [Universidade Brasileira Livre](https://ulivre.dev/ 'Universidade Brasileira Livre'): universidade autoditada para ciência da computação e matemática.
+- [UNIVESP](https://www.youtube.com/user/univesptv 'UNIVESP')
 
 ## Geral
 
@@ -15,6 +16,7 @@ Conteúdo sobre Ciência da Computação e Matemática. Para melhorar o aprendiz
 - [Andrew S. Tanenbaum](http://www.cs.vu.nl/~ast/ 'Andrew S. Tanenbaum')
 - [Victor Campos](https://www.youtube.com/@victoitor 'Victor Campos'): estrutura de dados e teoria dos grafos.
 - [Graham Hutton](https://www.cs.nott.ac.uk/~pszgmh/ 'Graham Hutton'): programação Haskell
+- [Bartosz Milewski](https://www.youtube.com/user/DrBartosz 'Bartosz Milewski'): programação funcional
 
 ### Programação
 
