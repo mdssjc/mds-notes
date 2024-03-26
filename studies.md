@@ -30,6 +30,7 @@ Conteúdo sobre Ciência da Computação e Matemática. Para melhorar o aprendiz
 - [Professor Leonard](https://www.youtube.com/@ProfessorLeonard 'Professor Leonard')
 - [Dr. Eugenia Cheng](https://eugeniacheng.com/ 'Dr. Eugenia Cheng')
 - [Sheldon Axler](https://www.axler.net/ 'Sheldon Axler')
+- [Professor Romildo](https://rjsdusk.org/ 'Professor Romildo')
 - [OpenIntro](https://www.openintro.org/ 'OpenIntro'): livros de estatística e matemática.
 - [Math Awesome](https://github.com/rossant/awesome-math 'Math Awesome'): lista de recursos de matemática.
 
