@@ -5,20 +5,32 @@ Mainstream:
 - [Java](software/java.md 'Java')
 - [Kotlin](software/kotlin.md 'Kotlin')
 - [Typescript](software/typescript.md 'Typescript')
+- JavaScript
 
 Acadêmicas:
 
-- [Haskell](software/haskell.mds 'Haskell')
+- R
+- Python
+- Julia
+- Racket
+
+Acadêmicas Sistema:
+
+- C
 - [Lisp](software/lisp.md 'Lisp')
+- [Haskell](software/haskell.mds 'Haskell')
 
 Modernas:
 
 - [Dart](software/dart.md 'Dart')
 - [Rust](software/rust.md 'Rust')
-- [Go](software/go.md 'Go')
 
 Outras:
 
+- [Go](software/go.md 'Go')
+- V
+- Elixir
+- Crystal
 - [Ruby](software/ruby.md 'Ruby')
 - [Scala](software/scala.md 'Scala')
 
