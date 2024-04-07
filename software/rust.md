@@ -14,6 +14,7 @@
 - [Tauri](https://tauri.app/ 'Tauri')
 - [Nannou](https://nannou.cc/ 'Nannou')
 - [Dioxus](https://dioxuslabs.com/ 'Dioxus')
+- [Bevy](https://bevyengine.org/ 'Bevy')
 
 ## Community
 
