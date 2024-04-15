@@ -11,10 +11,10 @@
 
 ## Libraries or Frameworks
 
-- [Tauri](https://tauri.app/ 'Tauri')
-- [Nannou](https://nannou.cc/ 'Nannou')
-- [Dioxus](https://dioxuslabs.com/ 'Dioxus')
 - [Bevy](https://bevyengine.org/ 'Bevy')
+- [Tauri](https://tauri.app/ 'Tauri')
+- [Dioxus](https://dioxuslabs.com/ 'Dioxus')
+- [Nannou](https://nannou.cc/ 'Nannou')
 
 ## Community
 
