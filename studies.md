@@ -1,15 +1,23 @@
 # ESTUDOS
 
-Conteúdo sobre Ciência da Computação e Matemática. Para melhorar o aprendizado, ver [Neurociência](neuro.md 'Neurociência').
-
-- [Universidade Brasileira Livre](https://ulivre.dev/ 'Universidade Brasileira Livre'): universidade autoditada para ciência da computação e matemática.
-- [UNIVESP](https://www.youtube.com/user/univesptv 'UNIVESP')
+Conteúdo sobre Matemática e Ciência da Computação. Para melhorar o aprendizado, ver [Neurociência](neuro.md 'Neurociência').
 
 ## Geral
 
+- [Universidade Brasileira Livre](https://ulivre.dev/ 'Universidade Brasileira Livre'): universidade autoditada para matemática e ciência da computação.
 - [MIT OpenCourseWare](https://ocw.mit.edu/ 'MIT OpenCourseWare')
-- [Disciplinas da USP](https://edisciplinas.usp.br/ 'Disciplinas da USP')
-- [Coursera USP](https://www.coursera.org/usp/ 'Coursera USP')
+- [Coursera](https://www.coursera.org/ 'Coursera')
+
+## Matemática
+
+- [SBM - Sociedade Brasileira de Matemática](https://sbm.org.br/ 'SBM - Sociedade Brasileira de Matemática')
+- [IMPA](https://impa.br/ 'IMPA - Instituto de Matemática Pura e Aplicada')
+- [Professor Leonard](https://www.youtube.com/@ProfessorLeonard 'Professor Leonard')
+- [Prof. Guilherme Pianezzer](https://www.youtube.com/@guipianezzer 'Prof. Guilherme Pianezzer')
+- [Dr. Eugenia Cheng](https://eugeniacheng.com/ 'Dr. Eugenia Cheng')
+- [Sheldon Axler](https://www.axler.net/ 'Sheldon Axler')
+- [Professor Romildo](https://rjsdusk.org/ 'Professor Romildo')
+- [OpenIntro](https://www.openintro.org/ 'OpenIntro'): livros de estatística e matemática.
 
 ## Computação
 
@@ -24,17 +32,8 @@ Conteúdo sobre Ciência da Computação e Matemática. Para melhorar o aprendiz
 - [Maximilian Schwarzmüller](https://academind.com/ 'Maximilian Schwarzmüller'): programação de aplicativos
 - [Stephen Grider](https://rallycoding.com/ 'Stephen Grider'): programação de aplicativos
 
-## Matemática
-
-- [IMPA](https://impa.br/ 'IMPA - Instituto de Matemática Pura e Aplicada')
-- [Professor Leonard](https://www.youtube.com/@ProfessorLeonard 'Professor Leonard')
-- [Dr. Eugenia Cheng](https://eugeniacheng.com/ 'Dr. Eugenia Cheng')
-- [Sheldon Axler](https://www.axler.net/ 'Sheldon Axler')
-- [Professor Romildo](https://rjsdusk.org/ 'Professor Romildo')
-- [OpenIntro](https://www.openintro.org/ 'OpenIntro'): livros de estatística e matemática.
-- [Math Awesome](https://github.com/rossant/awesome-math 'Math Awesome'): lista de recursos de matemática.
-
 ## Outros
 
 - [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/ 'The Feynman Lectures on Physics'): livro de física.
 - [Explorable Explanations](https://explorabl.es/ 'Explorable Explanations'): explicações interativas.
+- [Math Awesome](https://github.com/rossant/awesome-math 'Math Awesome'): lista de recursos de matemática.

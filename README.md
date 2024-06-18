@@ -4,7 +4,7 @@
 
 - Compilar uma coleção de notas sobre diversos assuntos.
 - Abordar diversos assuntos, como tecnologias, jogos, vida profissional e pessoal.
-- Manter uma constante atualização, com a estratégia de anotações durante a semana.
+- Manter uma constante atualização.
 
 ## Conteúdo
 
@@ -23,4 +23,4 @@
 
 ## Data da Atualização
 
-22/04/2024
+18/06/2024
