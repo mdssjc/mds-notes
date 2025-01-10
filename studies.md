@@ -4,13 +4,15 @@ Conteúdo sobre Matemática e Ciência da Computação. Para melhorar o aprendiz
 
 ## Geral
 
+- [SBM - Sociedade Brasileira de Matemática](https://sbm.org.br/ 'SBM - Sociedade Brasileira de Matemática')
+- [SBMAC - Sociedade Brasileira de Matemática Aplicada e Computacional](https://www.sbmac.org.br/ 'SBMAC - Sociedade Brasileira de Matemática Aplicada e Computacional')
+- [SBC - Sociedade Brasileira de Computação](https://www.sbc.org.br/ 'SBC - Sociedade Brasileira de Computação')
 - [Universidade Brasileira Livre](https://ulivre.dev/ 'Universidade Brasileira Livre'): universidade autoditada para matemática e ciência da computação.
 - [MIT OpenCourseWare](https://ocw.mit.edu/ 'MIT OpenCourseWare')
 - [Coursera](https://www.coursera.org/ 'Coursera')
 
 ## Matemática
 
-- [SBM - Sociedade Brasileira de Matemática](https://sbm.org.br/ 'SBM - Sociedade Brasileira de Matemática')
 - [IMPA](https://impa.br/ 'IMPA - Instituto de Matemática Pura e Aplicada')
 - [Professor Leonard](https://www.youtube.com/@ProfessorLeonard 'Professor Leonard')
 - [Prof. Guilherme Pianezzer](https://www.youtube.com/@guipianezzer 'Prof. Guilherme Pianezzer')
