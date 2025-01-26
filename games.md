@@ -1,6 +1,6 @@
 # GAMES
 
-Principais plataformas para jogos online.
+Principais plataformas para jogos online:
 
 - [Epic Games](https://www.epicgames.com/ 'Epic Games')
 - [GOG](https://www.gog.com/ 'GOG')
@@ -10,10 +10,14 @@ Observação: a _Epic Games_ libera um ou mais jogos gratuitamente toda semana, 
 
 ## Streaming
 
+Principais plataformas para assistir vídeos:
+
 - [Twitch](https://www.twitch.tv/ 'Twitch')
 - [YouTube](https://www.youtube.com/ 'YouTube')
 
 ## Game Development
+
+Principais ferramentas para desenvolvimento de jogos:
 
 - [Defold](https://defold.com/ 'Defold')
 - [Godot](https://godotengine.org/ 'Godot')
