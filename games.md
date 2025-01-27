@@ -1,6 +1,6 @@
 # GAMES
 
-Principais plataformas para jogos online:
+Principais plataformas para jogos _on-line_:
 
 - [Epic Games](https://www.epicgames.com/ 'Epic Games')
 - [GOG](https://www.gog.com/ 'GOG')
