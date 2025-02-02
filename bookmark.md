@@ -14,3 +14,4 @@
 - [Public APIs](https://github.com/public-apis/public-apis/ 'Public APIs')
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/ 'The Art of Command Line')
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer/ 'The System Design Primer')
+- [Github Awesome](https://github.com/sindresorhus/awesome/ 'Github Awesome')
