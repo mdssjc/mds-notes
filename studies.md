@@ -21,6 +21,10 @@ Conteúdo sobre Matemática e Ciência da Computação. Para melhorar o aprendiz
 - [Professor Romildo](https://rjsdusk.org/ 'Professor Romildo')
 - [OpenIntro](https://www.openintro.org/ 'OpenIntro'): livros de estatística e matemática.
 
+### Livros
+
+- Um Curso de Cálculo - Hamilton Luiz Guidorizzi: 4 volumes
+
 ## Computação
 
 - [Andrew S. Tanenbaum](http://www.cs.vu.nl/~ast/ 'Andrew S. Tanenbaum')
