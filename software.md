@@ -9,14 +9,15 @@ Mainstream:
 
 Acadêmicas:
 
-- R
-- Python
 - Julia
-- Racket
+- Python
+- R
 
 Acadêmicas Sistema:
 
 - C
+- OCaml
+- Racket
 - [Lisp](software/lisp.md 'Lisp')
 - [Haskell](software/haskell.mds 'Haskell')
 
