@@ -16,7 +16,7 @@ Acadêmicas:
 Acadêmicas Sistema:
 
 - C
-- OCaml
+- [OCaml](software/ocaml.md 'OCaml')
 - Racket
 - [Lisp](software/lisp.md 'Lisp')
 - [Haskell](software/haskell.mds 'Haskell')
