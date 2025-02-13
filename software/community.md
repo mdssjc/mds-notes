@@ -9,6 +9,7 @@
 - [Reflectoring - Where the HOW meets the WHY](https://reflectoring.io/ 'Reflectoring - Where the HOW meets the WHY')
 - [Software Developer To Software Architect](https://developertoarchitect.com/ 'Software Developer To Software Architect')
 - [ThouthWorks Radar](https://www.thoughtworks.com/radar/ 'ThouthWorks Radar')
+- [InfoQ Trends Report](https://www.infoq.com/infoq-trends-report/ 'InfoQ Trends Report')
 
 ## Authors
 
